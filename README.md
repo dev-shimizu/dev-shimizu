@@ -51,6 +51,7 @@ PHP API to manage movies, schedules, and ticket bookings.
 #### 4. **Supemon C++**  
 A **C++** application for real-time system monitoring.  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-shimizu&langs_count=5&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-shimizu&langs_count=5&layout=compact&count_private=true)
+
 
 
