@@ -61,6 +61,6 @@ A **C++** application for real-time system monitoring.
 If you like what I do or want to support my parakeet rescue association 🕊️  
 you can donate or buy me a coffee 💛  
 
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/devshimizu)
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/shimizu)
 
 
