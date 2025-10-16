@@ -1,5 +1,6 @@
 🇫🇷 **Hello, I'm @dev-shimizu**  
 🌱 **Computer Science student at SUPINFO**  
+🕊️ Founder of **@refugeperruchestriolet** — a nonprofit association dedicated to rescuing and protecting parakeets.  
 
 ---
 
@@ -11,7 +12,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
@@ -37,6 +40,7 @@
 ![SEO](https://img.shields.io/badge/-SEO-4285F4?logo=google&logoColor=white)
 
 ---
+
 ### 📂 **Example School Projects**
 
 #### 1. **Star Battle Solver Python**  
@@ -51,6 +55,10 @@ PHP API to manage movies, schedules, and ticket bookings.
 #### 4. **Supemon C++**  
 A **C++** application for real-time system monitoring.  
 
+---
 
+### ☕ **Support Me / Refuge Perruches Triolet**
+If you like what I do or want to support my parakeet rescue association 🕊️  
+you can donate or buy me a coffee 💛  
 
-
+[![Buy Me a Coffee](https://buymeacoffee.com/shimizu)
