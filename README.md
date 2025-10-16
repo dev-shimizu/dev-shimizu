@@ -61,4 +61,5 @@ A **C++** application for real-time system monitoring.
 If you like what I do or want to support my parakeet rescue association 🕊️  
 you can donate or buy me a coffee 💛  
 
-[Buy Me a Coffee](https://buymeacoffee.com/shimizu)
+![Buy Me a Coffee](https://www.buymeacoffee.com/devshimizu)
+
